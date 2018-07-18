@@ -8,7 +8,7 @@
 	    <div id="main">
 		    <div class="four">
 		        <h2>基本信息</h2>
-	                <p >姓名 Fish   性别<b>  男 <b>   应聘职位</b>  Web前端工程师</p>
+	                <p ><b>姓名</b> Fish   <b>性别</b>  男 <b>   应聘职位</b>  Web前端工程师</p>
 	            </div>
 	            <div class="four">
 		        <h2>联系方式</h2>
