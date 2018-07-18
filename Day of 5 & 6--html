@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	 <link rel="stylesheet" type="text/css" href="D:\CSS\style_1.css">
+	</head>
+    <body id="container">
+        <div id="header"><h1>简历</h1></div>
+	    <div id="main">
+		    <div class="four">
+		        <h2>基本信息</h2>
+	            <p><b>姓名</b>  Fish<b>    性别<b>  男 <b>   应聘职位</b>  Web前端工程师</p>
+	        </div>
+	        <div class="four">
+		        <h2>联系方式</h2>
+	            <p><b>手机</b> 13800138000 
+	            <b> Email<b><a href="http://13800138000@qq.com"> 13800138000 </a>
+	            <b> 个人主页 </b> <a href="http://www.baidu.com">百度一下，你就知道</a>
+			    </p>	
+		    </div>	    
+		    <div class="four">
+		        <h2>能力描述</h2>
+                <p><b>技术能力</b></p>
+                <p>熟练掌握HTML，CSS，Javascript</p>
+                <p><b>综合能力</b></p>
+			    <p>良好的沟通，主动积极，努力勤奋</p>		
+		    </div>
+		</div>
+		<div id="footer"><p style="color: red;text-align: center;font-size:20px">欢迎联系我</p></div>
+    </body> 
+</html>
