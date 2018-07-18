@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-	 <link rel="stylesheet" type="text/css" href="https://github.com/Fish0329/Hello-World/blob/master/Day%20of%205%20%26%206--style_1.css">
+	 <link rel="stylesheet" type="text/css" href="D:\CSS\style_1.css">
 	</head>
     <body id="container">
         <div id="header"><h1>简历</h1></div>
@@ -22,8 +22,22 @@
                 <p><b>技术能力</b></p>
                 <p>熟练掌握HTML，CSS，Javascript</p>
                 <p><b>综合能力</b></p>
-			    <p>良好的沟通，主动积极，努力勤奋</p>		
+			    <p>良好的沟通，主动积极，努力勤奋</p>	
 		    </div>
+			<div class="four">
+				<h2>教育经历</h2>
+                <p><b>本科</b></p>
+                <p>百度前端技术学院小薇学院</p>
+                <p><b>研究生</b></p>
+			    <p>百度前端技术学院大斌学院</p>	
+			</div>
+			<div class="four">
+			    <h2>项目经历</h2>
+                <p><b>小度小度</b></p>
+                <p>作为前端工程师参与了ABC组的开发</p>
+                <p><b>SAN Doc</b></p>
+			    <p>作为文档工程师参与了SAN Doc编写</p>	
+			</div>  
 		</div>
 		<div id="footer"><p style="color: red;text-align: center;font-size:20px">欢迎联系我</p></div>
     </body> 
