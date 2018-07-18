@@ -1,0 +1,37 @@
+#container{
+			background:pink;
+			margin：0px auto;
+			padding:5px;
+			
+		}
+#header{
+			height: 100px;
+			background:transparent;
+			margin: 10px;
+			border:2px solid black;
+			padding:5px;
+			
+		
+		}
+#main{
+			height: 1350px;
+			background:transparent;
+			margin:10px;
+			border:solid black 2px;
+			padding:5px; 
+		}
+#footer{
+			height: 90px;
+			background: gray;
+			margin: 10px;
+			border: solid black 2px;
+		}
+.four{
+			margin:10px;
+			background:yellow;
+			padding: 20px;
+			border-top: 2px solid blue;
+		    border-right:2px solid blue;
+            border-bottom:2px solid blue;
+		    border-left:2px solid blue;
+		}
