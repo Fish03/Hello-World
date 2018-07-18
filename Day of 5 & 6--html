@@ -2,42 +2,42 @@
 <html>
     <head>
 	 <link rel="stylesheet" type="text/css" href="Hello-World/Day of 5 & 6--style_1.css">
-	</head>
+    </head>
     <body id="container">
         <div id="header"><h1>简历</h1></div>
 	    <div id="main">
 		    <div class="four">
 		        <h2>基本信息</h2>
-	            <p><b>姓名</b>  Fish<b>    性别<b>  男 <b>   应聘职位</b>  Web前端工程师</p>
-	        </div>
-	        <div class="four">
+	                <p><b>姓名</b>  Fish<b>    性别<b>  男 <b>   应聘职位</b>  Web前端工程师</p>
+	            </div>
+	            <div class="four">
 		        <h2>联系方式</h2>
-	            <p><b>手机</b> 13800138000 
-	            <b> Email<b><a href="http://13800138000@qq.com"> 13800138000 </a>
-	            <b> 个人主页 </b> <a href="http://www.baidu.com">百度一下，你就知道</a>
-			    </p>	
-		    </div>	    
-		    <div class="four">
+	                <p><b>手机</b> 13800138000 
+	                <b> Email<b><a href="http://13800138000@qq.com"> 13800138000 </a>
+	                <b> 个人主页 </b> <a href="http://www.baidu.com">百度一下，你就知道</a>
+			</p>	
+		     </div>	    
+		     <div class="four">
 		        <h2>能力描述</h2>
-                <p><b>技术能力</b></p>
-                <p>熟练掌握HTML，CSS，Javascript</p>
-                <p><b>综合能力</b></p>
-			    <p>良好的沟通，主动积极，努力勤奋</p>	
-		    </div>
-			<div class="four">
-				<h2>教育经历</h2>
-                <p><b>本科</b></p>
-                <p>百度前端技术学院小薇学院</p>
-                <p><b>研究生</b></p>
-			    <p>百度前端技术学院大斌学院</p>	
-			</div>
-			<div class="four">
-			    <h2>项目经历</h2>
-                <p><b>小度小度</b></p>
-                <p>作为前端工程师参与了ABC组的开发</p>
-                <p><b>SAN Doc</b></p>
-			    <p>作为文档工程师参与了SAN Doc编写</p>	
-			</div>  
+                        <p><b>技术能力</b></p>
+                        <p>熟练掌握HTML，CSS，Javascript</p>
+                        <p><b>综合能力</b></p>
+			<p>良好的沟通，主动积极，努力勤奋</p>	
+		     </div>
+		     <div class="four">
+		        <h2>教育经历</h2>
+                        <p><b>本科</b></p>
+                        <p>百度前端技术学院小薇学院</p>
+                        <p><b>研究生</b></p>
+			<p>百度前端技术学院大斌学院</p>	
+	             </div>
+		     <div class="four">
+			 <h2>项目经历</h2>
+                         <p><b>小度小度</b></p>
+                         <p>作为前端工程师参与了ABC组的开发</p>
+                         <p><b>SAN Doc</b></p>
+			 <p>作为文档工程师参与了SAN Doc编写</p>	
+	             </div>  
 		</div>
 		<div id="footer"><p style="color: red;text-align: center;font-size:20px">欢迎联系我</p></div>
     </body> 
